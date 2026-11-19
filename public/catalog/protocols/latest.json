@@ -1,613 +1,213 @@
 [
   {
-    "protocol": "http",
-    "endpoint": "http://localhost:5555/docs",
-    "file": "STABILIZATION_COMPLETE.md"
+    "protocol": "https",
+    "endpoint": "https://clisonix.cloud/docs/authentication",
+    "file": "api_key_management.py"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://clisonix.cloud/docs/authentication",
+    "file": "api_key_management.py"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://clisonix.cloud/pricing",
+    "file": "api_key_management.py"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:6666/docs",
-    "file": "STABILIZATION_COMPLETE.md"
+    "endpoint": "http://46.62.210.251:3000",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:7777/docs",
-    "file": "STABILIZATION_COMPLETE.md"
+    "endpoint": "http://46.62.210.251:8000",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:9999/docs",
-    "file": "STABILIZATION_COMPLETE.md"
+    "endpoint": "http://46.62.210.251:8000/docs",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:5555/health",
-    "file": "STABILIZATION_COMPLETE.md"
+    "endpoint": "http://46.62.210.251:8030",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:6666/health",
-    "file": "STABILIZATION_COMPLETE.md"
+    "endpoint": "http://46.62.210.251:11434",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:7777/health",
-    "file": "STABILIZATION_COMPLETE.md"
+    "endpoint": "http://46.62.210.251:3001",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9090",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:16686",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9001",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:7474",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:5555",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:6680",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:7777",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9094",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:8040",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:8041",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9101",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9102",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9103",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9123",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9301",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9302",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9303",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9304",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9305",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9306",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9307",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://46.62.210.251:9308",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
     "endpoint": "http://localhost:8000/health",
-    "file": "STABILIZATION_COMPLETE.md"
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:9999/health",
-    "file": "STABILIZATION_COMPLETE.md"
+    "endpoint": "http://localhost:8030/health",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:5555/docs",
-    "file": "STABILIZATION_COMPLETE.md"
+    "endpoint": "http://localhost:11434/api/tags",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:6666/docs",
-    "file": "STABILIZATION_COMPLETE.md"
+    "endpoint": "http://46.62.210.251:3001",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://dashboard.stripe.com/test/webhooks",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:7777/docs",
-    "file": "STABILIZATION_COMPLETE.md"
+    "endpoint": "http://46.62.210.251:8095/api/test-payment",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:9999/docs",
-    "file": "STABILIZATION_COMPLETE.md"
+    "endpoint": "http://46.62.210.251:8041/publish",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
-    "protocol": "http",
-    "endpoint": "http://localhost:5555",
-    "file": "STABILIZATION_COMPLETE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:6666",
-    "file": "STABILIZATION_COMPLETE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:7777",
-    "file": "STABILIZATION_COMPLETE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://{os.getenv(",
-    "file": "saas_services_orchestrator.py"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://{os.getenv(",
-    "file": "saas_services_orchestrator.py"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://{os.getenv(",
-    "file": "saas_services_orchestrator.py"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:9999",
-    "file": "saas_services_orchestrator.py"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://{OCEAN_HOST}:{OCEAN_PORT}/admin/tune",
-    "file": "slo_sli_tuning.py"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8045/health",
-    "file": "compose.voice-gpu.yml"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8000/health",
-    "file": "QUICK_REFERENCE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8000/docs",
-    "file": "QUICK_REFERENCE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:3000",
-    "file": "QUICK_REFERENCE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8000/health",
-    "file": "QUICK_REFERENCE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8000/health",
-    "file": "QUICK_REFERENCE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:9090",
-    "file": "QUICK_REFERENCE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:3000",
-    "file": "QUICK_REFERENCE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:5601",
-    "file": "QUICK_REFERENCE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:16686",
-    "file": "QUICK_REFERENCE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com/health",
-    "file": "QUICK_REFERENCE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://aiagi.io}",
-    "file": "docker-compose.aiagi-upstream.yml"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:9080/health",
-    "file": "docker-compose.aiagi-upstream.yml"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com",
-    "file": "production_ready_template.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://xxxxx",
-    "file": "DEVSECOPS_COMPLETE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com",
-    "file": "clisonix_integration_runner.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://openneuro.org/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://physionet.org/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.eeglab.org/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://sccn.ucsd.edu/eeglab/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://neurodata.io/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://pubmed.ncbi.nlm.nih.gov/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.ncbi.nlm.nih.gov/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://arxiv.org/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.nature.com/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.sciencedirect.com/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://ec.europa.eu/eurostat",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://data.europa.eu/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.destatis.de/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.insee.fr/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.ons.gov.uk/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://data.stats.gov.cn/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.stat.go.jp/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://kostat.go.kr/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://data.gov.in/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.ecb.europa.eu/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.federalreserve.gov/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.imf.org/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://data.worldbank.org/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.copernicus.eu/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://earthdata.nasa.gov/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.eea.europa.eu/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.noaa.gov/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.who.int/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.cdc.gov/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.ecdc.europa.eu/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.fiware.org/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://smartdatamodels.org/",
-    "file": "session_10min_cycles.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com/health",
-    "file": "Clisonix_Python_Excel_Dashboard.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com/health",
-    "file": "Clisonix_Python_Excel_Dashboard.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com/api/alba/health",
-    "file": "Clisonix_Python_Excel_Dashboard.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com/api/alba/health",
-    "file": "Clisonix_Python_Excel_Dashboard.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com/asi/trinity/status",
-    "file": "Clisonix_Python_Excel_Dashboard.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com/asi/trinity/status",
-    "file": "Clisonix_Python_Excel_Dashboard.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://nextjs.org/docs/app/api-reference/config/typescript",
-    "file": "next-env.d.ts"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:11434`",
-    "file": "CLX_I_STIGMA_README.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8048/health",
-    "file": "CLX_I_STIGMA_README.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8048/api/v1/icons/analyze",
-    "file": "CLX_I_STIGMA_README.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:PORT/health`",
-    "file": "README_CRITICAL_GAPS.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://dashboard.clerk.com",
-    "file": "README_CRITICAL_GAPS.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://dashboard.stripe.com",
-    "file": "README_CRITICAL_GAPS.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://developer.paypal.com",
-    "file": "README_CRITICAL_GAPS.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://stripe.com/onboard",
-    "file": "MONETIZATION_30DAY_PLAN.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://developer.tiktok.com/",
-    "file": "MONETIZATION_30DAY_PLAN.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://console.cloud.google.com/",
-    "file": "MONETIZATION_30DAY_PLAN.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://adsense.google.com/",
-    "file": "MONETIZATION_30DAY_PLAN.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://analytics.google.com/",
-    "file": "MONETIZATION_30DAY_PLAN.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://dashboard.stripe.com/apikeys",
-    "file": "SECURITY_ACTIVATION_COMPLETE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://github.com/Web8kameleon-hub/clisonix.com/settings/secrets",
-    "file": "SECURITY_ACTIVATION_COMPLETE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:11434",
-    "file": "blerina_core.py"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:5555",
-    "file": "READY_TO_TEST.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:6680",
-    "file": "READY_TO_TEST.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:7777",
-    "file": "READY_TO_TEST.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8030",
-    "file": "validate_ocean_ready.py"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:3000",
-    "file": "validate_ocean_ready.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://support.hetzner.com/)",
-    "file": "HETZNER_SUPPORT_TEMPLATE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://github.com/Web8kameleon-hub/clisonix.com.git",
-    "file": "HETZNER_DEPLOYMENT_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com",
-    "file": "HETZNER_DEPLOYMENT_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com",
-    "file": "HETZNER_DEPLOYMENT_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com/health",
-    "file": "HETZNER_DEPLOYMENT_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com",
-    "file": "HETZNER_DEPLOYMENT_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com/docs",
-    "file": "HETZNER_DEPLOYMENT_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/grafana",
-    "file": "HETZNER_DEPLOYMENT_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/prometheus",
-    "file": "HETZNER_DEPLOYMENT_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com",
-    "file": "HETZNER_DEPLOYMENT_GUIDE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:5679/health",
-    "file": "NANOGRIDATA_INTEGRATION_COMPLETE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:5679/stats",
-    "file": "NANOGRIDATA_INTEGRATION_COMPLETE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://github.com/Web8kameleon-hub/clisonix.com`",
-    "file": "NANOGRIDATA_INTEGRATION_COMPLETE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://clisonix-api:8000",
-    "file": "production_autolearning_connector.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://api.clisonix.com",
-    "file": "production_autolearning_connector.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/checkout/success?session_id={CHECKOUT_SESSION_ID}",
-    "file": "PAYMENT_PROCESSOR_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/checkout/cancel",
-    "file": "PAYMENT_PROCESSOR_GUIDE.md"
-  },
-  {
     "protocol": "https",
-    "endpoint": "https://api.sandbox.paypal.com",
-    "file": "PAYMENT_PROCESSOR_GUIDE.md"
+    "endpoint": "https://console.hetzner.cloud",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "https",
-    "endpoint": "https://api.paypal.com",
-    "file": "PAYMENT_PROCESSOR_GUIDE.md"
+    "endpoint": "https://docs.hetzner.cloud",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "https",
-    "endpoint": "https://clisonix.com/checkout/success",
-    "file": "PAYMENT_PROCESSOR_GUIDE.md"
+    "endpoint": "https://docs.docker.com/compose",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "https",
-    "endpoint": "https://clisonix.com/checkout/cancel",
-    "file": "PAYMENT_PROCESSOR_GUIDE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8015/health",
-    "file": "PAYMENT_PROCESSOR_GUIDE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8015/health",
-    "file": "PAYMENT_PROCESSOR_GUIDE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8015",
-    "file": "PAYMENT_PROCESSOR_GUIDE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8015/health",
-    "file": "PAYMENT_PROCESSOR_GUIDE.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:8015/checkout",
-    "file": "PAYMENT_PROCESSOR_GUIDE.md"
+    "endpoint": "https://github.com/Web8kameleon-hub/clisonix.com",
+    "file": "DEPLOYMENT_SUMMARY_HETZNER.md"
   },
   {
     "protocol": "http",
@@ -710,293 +310,693 @@
     "file": "CURIOSITY_OCEAN_SETUP.md"
   },
   {
-    "protocol": "http",
-    "endpoint": "http://localhost:8000`",
-    "file": "SYSTEM_STATUS.md"
+    "protocol": "https",
+    "endpoint": "https://api.clisonix.com/health",
+    "file": "Clisonix_Python_Excel_Dashboard.py"
   },
   {
-    "protocol": "http",
-    "endpoint": "http://localhost:3000`",
-    "file": "SYSTEM_STATUS.md"
+    "protocol": "https",
+    "endpoint": "https://api.clisonix.com/health",
+    "file": "Clisonix_Python_Excel_Dashboard.py"
   },
   {
-    "protocol": "http",
-    "endpoint": "http://localhost:5555`",
-    "file": "SYSTEM_STATUS.md"
+    "protocol": "https",
+    "endpoint": "https://api.clisonix.com/api/alba/health",
+    "file": "Clisonix_Python_Excel_Dashboard.py"
   },
   {
-    "protocol": "http",
-    "endpoint": "http://localhost:7777`",
-    "file": "SYSTEM_STATUS.md"
+    "protocol": "https",
+    "endpoint": "https://api.clisonix.com/api/alba/health",
+    "file": "Clisonix_Python_Excel_Dashboard.py"
   },
   {
-    "protocol": "http",
-    "endpoint": "http://localhost:8000`)",
-    "file": "SYSTEM_STATUS.md"
+    "protocol": "https",
+    "endpoint": "https://api.clisonix.com/asi/trinity/status",
+    "file": "Clisonix_Python_Excel_Dashboard.py"
   },
   {
-    "protocol": "http",
-    "endpoint": "http://localhost:8000/docs`",
-    "file": "SYSTEM_STATUS.md"
-  },
-  {
-    "protocol": "http",
-    "endpoint": "http://localhost:{port}",
-    "file": "alba_service_5555.py"
+    "protocol": "https",
+    "endpoint": "https://api.clisonix.com/asi/trinity/status",
+    "file": "Clisonix_Python_Excel_Dashboard.py"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:{port}/docs",
-    "file": "alba_service_5555.py"
+    "endpoint": "http://{name}:{port}/health",
+    "file": "health_monitor_service.py"
   },
   {
-    "protocol": "https",
-    "endpoint": "https://stripe.com/onboard",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://dashboard.stripe.com/apikeys",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/pricing",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/api/v1/subscribe",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://developer.tiktok.com/",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://console.cloud.google.com/",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/api/v1/content/calendar?weeks=4",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://studio.youtube.com/",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://adsense.google.com/",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://analytics.google.com/",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://mixpanel.com/",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/api/v1/monetization/dashboard",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/api/v1/monetization/dashboard",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://support.stripe.com/",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://developer.tiktok.com/",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://www.youtube.com/watch?v=help",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/monetization",
-    "file": "MONETIZATION_SETUP_GUIDE.md"
+    "protocol": "http",
+    "endpoint": "http://{name}:{port}/",
+    "file": "health_monitor_service.py"
   },
   {
     "protocol": "http",
     "endpoint": "http://localhost:{port}/health",
-    "file": "orchestrate_discovery_tests.py"
+    "file": "health_monitor_service.py"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://localhost:8086",
+    "file": "ocean_core_adapter.ts"
   },
   {
     "protocol": "https",
-    "endpoint": "https://api.clisonix.cloud",
-    "file": "Clisonix-Cloud-Production.postman_environment.json"
+    "endpoint": "https://github.com/Web8kameleon-hub/clisonix.com/actions/workflows/kloud-edge-ci.yml",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://github.com/Web8kameleon-hub/clisonix.com/actions/runs/[RUN_ID]/artifacts",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:3000",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/health",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8001/health",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.clisonix.com",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.clisonix.com/api/health",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.clisonix.com/api/auth/signin",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.clisonix.com",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.clisonix.com/api/proxy/docker-containers",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.clisonix.com/api/auth/signin",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.clisonix.com/api/kitchen/health",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.clisonix.com/api/system-metrics",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.clisonix.com/api/health",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.clisonix.com/api/ocean/health",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.clisonix.com/api/ocean/metrics",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://dash.cloudflare.com/",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:3000",
+    "file": "PRODUCTION_DEPLOYMENT_CHECKLIST.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://console.hetzner.com",
+    "file": "QUICK_DEPLOY.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://www.strato.de/apps/CustomerService",
+    "file": "QUICK_DEPLOY.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://raw.githubusercontent.com/Web8kameleon-hub/clisonix.com/main/deploy-hetzner.sh",
+    "file": "QUICK_DEPLOY.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://localhost:8000/health",
+    "file": "QUICK_DEPLOY.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://localhost:5555/health",
+    "file": "QUICK_DEPLOY.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://localhost:6666/health",
+    "file": "QUICK_DEPLOY.md"
   },
   {
     "protocol": "https",
     "endpoint": "https://clisonix.com",
-    "file": "CLISONIX_USER_GUIDE.md"
+    "file": "QUICK_DEPLOY.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://api.clisonix.com/health",
+    "file": "QUICK_DEPLOY.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://clisonix.com:3001",
+    "file": "QUICK_DEPLOY.md"
   },
   {
     "protocol": "https",
     "endpoint": "https://clisonix.com",
-    "file": "CLISONIX_USER_GUIDE.md"
+    "file": "QUICK_DEPLOY.md"
   },
   {
     "protocol": "https",
-    "endpoint": "https://clisonix.com/grafana/",
-    "file": "CLISONIX_USER_GUIDE.md"
+    "endpoint": "https://api.clisonix.com",
+    "file": "QUICK_DEPLOY.md"
   },
   {
     "protocol": "https",
-    "endpoint": "https://clisonix.com/prometheus/",
-    "file": "CLISONIX_USER_GUIDE.md"
+    "endpoint": "https://clisonix.com:3001",
+    "file": "QUICK_DEPLOY.md"
   },
   {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/victoria/",
-    "file": "CLISONIX_USER_GUIDE.md"
+    "protocol": "http",
+    "endpoint": "http://SERVER_IP:9090",
+    "file": "QUICK_DEPLOY.md"
   },
   {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/backend/",
-    "file": "CLISONIX_USER_GUIDE.md"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://clisonix.com/backend/api/health",
-    "file": "CLISONIX_USER_GUIDE.md"
+    "protocol": "http",
+    "endpoint": "http://SERVER_IP:5601",
+    "file": "QUICK_DEPLOY.md"
   },
   {
     "protocol": "https",
     "endpoint": "https://clisonix.com",
-    "file": "CLISONIX_USER_GUIDE.md"
+    "file": "QUICK_DEPLOY.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:{port}/health",
-    "file": "diagnose_service_startup.py"
+    "endpoint": "http://localhost:PORT/health",
+    "file": "NO_FAKE_DATA_POLICY.md"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://clisonix.com/health",
+    "file": "PRODUCTION_ADVANCEMENT_PLAN.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:8035/api/v1/pillars/generate",
-    "file": "update_blerina_topics.py"
+    "endpoint": "http://localhost:8001",
+    "file": "test_hybrid_system.py"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://clinic-api.example.com",
+    "file": "test_hybrid_system.py"
   },
   {
     "protocol": "http",
-    "endpoint": "http://clisonix-api:8000",
-    "file": "clx_hybrid_service.py"
+    "endpoint": "http://localhost:8001",
+    "file": "test_hybrid_system.py"
+  },
+  {
+    "protocol": "https",
+    "endpoint": "https://clinic-api.example.com",
+    "file": "test_hybrid_system.py"
   },
   {
     "protocol": "http",
-    "endpoint": "http://clisonix-ocean-core:8030",
-    "file": "clx_hybrid_service.py"
+    "endpoint": "http://localhost:8000/",
+    "file": "test_neurosonix_api.py"
   },
   {
     "protocol": "http",
-    "endpoint": "http://clisonix-clx-agent:11435",
-    "file": "clx_hybrid_service.py"
+    "endpoint": "http://localhost:8000/health",
+    "file": "test_neurosonix_api.py"
   },
   {
     "protocol": "http",
-    "endpoint": "http://clisonix-clx-i:11437",
-    "file": "clx_hybrid_service.py"
+    "endpoint": "http://localhost:8000/status",
+    "file": "test_neurosonix_api.py"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://localhost:8000/api/alba/status",
+    "file": "test_neurosonix_api.py"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://localhost:8000/asi/status",
+    "file": "test_neurosonix_api.py"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://localhost:8000/asi/health",
+    "file": "test_neurosonix_api.py"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://localhost:8000/api/data-sources",
+    "file": "test_neurosonix_api.py"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://localhost:8000/db/ping",
+    "file": "test_neurosonix_api.py"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://localhost:8000/redis/ping",
+    "file": "test_neurosonix_api.py"
   },
   {
     "protocol": "http",
     "endpoint": "http://localhost:8000",
-    "file": "start_neurosonix.py"
-  },
-  {
-    "protocol": "https",
-    "endpoint": "https://hooks.slack.com/services/YOUR/WEBHOOK/URL",
-    "file": "MONITORING_SETUP.md"
+    "file": "test_neurosonix_api.py"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:9090",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://localhost:8000/",
+    "file": "test_neurosonix_api.py"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:8428",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://localhost:8000/fitness/users/profile",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:8880",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://localhost:8000/fitness/users/$USER_ID/workouts",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:9093",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://localhost:8000/fitness/workouts/$WORKOUT_ID/exercises",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:3001",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://localhost:8000/fitness/users/$USER_ID/biometrics",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:5601",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://localhost:8000/fitness/analyze/pose",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:8000/metrics",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://localhost:8000/fitness/analyze/emotional-state",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:8428/health",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://localhost:8000/fitness/workouts/$WORKOUT_ID/end",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:9200/_cluster/health",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://localhost:8000/fitness/users/$USER_ID/stats",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://localhost:3001/api/health",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://alba:5555",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://victoria-metrics:8428",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://albi:6666",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://elasticsearch:9200",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://jona:7777",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
   },
   {
     "protocol": "http",
-    "endpoint": "http://alertmanager:9093",
-    "file": "MONITORING_SETUP.md"
+    "endpoint": "http://localhost:8000/fitness",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://localhost:8000/docs`",
+    "file": "FITNESS_MODULE_QUICK_REFERENCE.md"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8001",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8002",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8010",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8030",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:5555",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:6680",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:7777",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
+  },
+  {
+    "protocol": "http",
+    "endpoint": "http://127.0.0.1:8000/openapi.json",
+    "file": "openapi.unified.wwwmmm-ndb.json"
   }
 ]
