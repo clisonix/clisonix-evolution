@@ -315,188 +315,6 @@
     "version": "^6.4.2"
   },
   {
-    "file": "cloudflare/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "jose",
-    "version": "^6.2.2"
-  },
-  {
-    "file": "cloudflare/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "wrangler",
-    "version": "^4.80.0"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "express",
-    "version": "^4.21.2"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "cors",
-    "version": "^2.8.5"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "helmet",
-    "version": "^8.1.0"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "compression",
-    "version": "^1.8.0"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "express-rate-limit",
-    "version": "^7.5.0"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "jsonwebtoken",
-    "version": "^9.0.2"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "bcryptjs",
-    "version": "^3.0.2"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "uuid",
-    "version": "^11.1.0"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "ws",
-    "version": "^8.18.1"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "ioredis",
-    "version": "^5.6.1"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "dotenv",
-    "version": "^16.5.0"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "winston",
-    "version": "^3.17.0"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "http-proxy-middleware",
-    "version": "^3.0.3"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/express",
-    "version": "^5.0.2"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/cors",
-    "version": "^2.8.17"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/compression",
-    "version": "^1.7.5"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/jsonwebtoken",
-    "version": "^9.0.9"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/bcryptjs",
-    "version": "^2.4.6"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/uuid",
-    "version": "^10.0.0"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/ws",
-    "version": "^8.18.1"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/node",
-    "version": "^22.15.21"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "tsx",
-    "version": "^4.20.3"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "typescript",
-    "version": "^5.8.3"
-  },
-  {
-    "file": "microservices/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "concurrently",
-    "version": "^9.2.0"
-  },
-  {
     "file": "frontend/package.json",
     "ecosystem": "npm",
     "section": "dependencies",
@@ -1078,6 +896,251 @@
     "version": "^4.80.0"
   },
   {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "express",
+    "version": "^4.21.2"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "cors",
+    "version": "^2.8.5"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "helmet",
+    "version": "^8.1.0"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "compression",
+    "version": "^1.8.0"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "express-rate-limit",
+    "version": "^7.5.0"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "jsonwebtoken",
+    "version": "^9.0.2"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "bcryptjs",
+    "version": "^3.0.2"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "uuid",
+    "version": "^11.1.0"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "ws",
+    "version": "^8.18.1"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "ioredis",
+    "version": "^5.6.1"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "dotenv",
+    "version": "^16.5.0"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "winston",
+    "version": "^3.17.0"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "http-proxy-middleware",
+    "version": "^3.0.3"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/express",
+    "version": "^5.0.2"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/cors",
+    "version": "^2.8.17"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/compression",
+    "version": "^1.7.5"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/jsonwebtoken",
+    "version": "^9.0.9"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/bcryptjs",
+    "version": "^2.4.6"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/uuid",
+    "version": "^10.0.0"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/ws",
+    "version": "^8.18.1"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/node",
+    "version": "^22.15.21"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "tsx",
+    "version": "^4.20.3"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "typescript",
+    "version": "^5.8.3"
+  },
+  {
+    "file": "microservices/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "concurrently",
+    "version": "^9.2.0"
+  },
+  {
+    "file": "cloudflare/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "jose",
+    "version": "^6.2.2"
+  },
+  {
+    "file": "cloudflare/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "wrangler",
+    "version": "^4.80.0"
+  },
+  {
+    "file": "services/kitchen-worker/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "newman",
+    "version": "^6.1.0"
+  },
+  {
+    "file": "services/kitchen-worker/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "newman-reporter-htmlextra",
+    "version": "^1.23.1"
+  },
+  {
+    "file": "services/kitchen-worker/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "redis",
+    "version": "^4.7.0"
+  },
+  {
+    "file": "services/kitchen-worker/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "bullmq",
+    "version": "^5.76.5"
+  },
+  {
+    "file": "services/kitchen-worker/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "ioredis",
+    "version": "^5.4.1"
+  },
+  {
+    "file": "packages/nanogrid/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "cbor",
+    "version": "^10.0.11"
+  },
+  {
+    "file": "packages/nanogrid/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/node",
+    "version": "^22.10.2"
+  },
+  {
+    "file": "packages/nanogrid/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "rimraf",
+    "version": "^6.0.1"
+  },
+  {
+    "file": "packages/nanogrid/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "typescript",
+    "version": "^5.7.2"
+  },
+  {
     "file": "packages/ui/package.json",
     "ecosystem": "npm",
     "section": "dependencies",
@@ -1139,34 +1202,6 @@
     "section": "peerDependencies",
     "name": "react-dom",
     "version": "^18.0.0"
-  },
-  {
-    "file": "packages/nanogrid/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "cbor",
-    "version": "^10.0.11"
-  },
-  {
-    "file": "packages/nanogrid/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/node",
-    "version": "^22.10.2"
-  },
-  {
-    "file": "packages/nanogrid/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "rimraf",
-    "version": "^6.0.1"
-  },
-  {
-    "file": "packages/nanogrid/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "typescript",
-    "version": "^5.7.2"
   },
   {
     "file": "packages/shared/package.json",
@@ -1307,6 +1342,174 @@
     "section": "devDependencies",
     "name": "@typescript-eslint/parser",
     "version": "^6.0.0"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "body-parser",
+    "version": "^1.20.4"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "cors",
+    "version": "^2.8.5"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "express",
+    "version": "^4.21.1"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "uuid",
+    "version": "^14.0.0"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "ws",
+    "version": "^8.19.0"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/body-parser",
+    "version": "^1.19.6"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/cors",
+    "version": "^2.8.19"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/express",
+    "version": "^4.17.25"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/uuid",
+    "version": "^9.0.8"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/ws",
+    "version": "^8.18.1"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "tsx",
+    "version": "^4.21.0"
+  },
+  {
+    "file": "apps/alba-collector/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "typescript",
+    "version": "^5.6.3"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "next",
+    "version": "16.3.0-canary.17"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "postcss",
+    "version": "^8.5.10"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "react",
+    "version": "18.3.1"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "dependencies",
+    "name": "react-dom",
+    "version": "18.3.1"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@tailwindcss/postcss",
+    "version": "^4.1.18"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/node",
+    "version": "^24.0.0"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/react",
+    "version": "18.3.18"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "@types/react-dom",
+    "version": "18.3.7"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "autoprefixer",
+    "version": "^10.4.20"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "postcss",
+    "version": "^8.5.6"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "tailwindcss",
+    "version": "^4.1.18"
+  },
+  {
+    "file": "apps/pwa/package.json",
+    "ecosystem": "npm",
+    "section": "devDependencies",
+    "name": "typescript",
+    "version": "^5.7.0"
   },
   {
     "file": "apps/web/package.json",
@@ -1664,208 +1867,5 @@
     "section": "devDependencies",
     "name": "tailwindcss",
     "version": "^4.1.18"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "next",
-    "version": "16.3.0-canary.17"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "postcss",
-    "version": "^8.5.10"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "react",
-    "version": "18.3.1"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "react-dom",
-    "version": "18.3.1"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@tailwindcss/postcss",
-    "version": "^4.1.18"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/node",
-    "version": "^24.0.0"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/react",
-    "version": "18.3.18"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/react-dom",
-    "version": "18.3.7"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "autoprefixer",
-    "version": "^10.4.20"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "postcss",
-    "version": "^8.5.6"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "tailwindcss",
-    "version": "^4.1.18"
-  },
-  {
-    "file": "apps/pwa/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "typescript",
-    "version": "^5.7.0"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "body-parser",
-    "version": "^1.20.4"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "cors",
-    "version": "^2.8.5"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "express",
-    "version": "^4.21.1"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "uuid",
-    "version": "^14.0.0"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "ws",
-    "version": "^8.19.0"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/body-parser",
-    "version": "^1.19.6"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/cors",
-    "version": "^2.8.19"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/express",
-    "version": "^4.17.25"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/uuid",
-    "version": "^9.0.8"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "@types/ws",
-    "version": "^8.18.1"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "tsx",
-    "version": "^4.21.0"
-  },
-  {
-    "file": "apps/alba-collector/package.json",
-    "ecosystem": "npm",
-    "section": "devDependencies",
-    "name": "typescript",
-    "version": "^5.6.3"
-  },
-  {
-    "file": "services/kitchen-worker/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "newman",
-    "version": "^6.1.0"
-  },
-  {
-    "file": "services/kitchen-worker/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "newman-reporter-htmlextra",
-    "version": "^1.23.1"
-  },
-  {
-    "file": "services/kitchen-worker/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "redis",
-    "version": "^4.7.0"
-  },
-  {
-    "file": "services/kitchen-worker/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "bullmq",
-    "version": "^5.76.5"
-  },
-  {
-    "file": "services/kitchen-worker/package.json",
-    "ecosystem": "npm",
-    "section": "dependencies",
-    "name": "ioredis",
-    "version": "^5.4.1"
   }
 ]

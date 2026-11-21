@@ -1,40 +1,5 @@
 [
   {
-    "file": "sdk/rust/Cargo.toml",
-    "ecosystem": "cargo",
-    "section": "dev-dependencies",
-    "name": "criterion",
-    "version": "0.5"
-  },
-  {
-    "file": "scripts/hardware/rust_node_agent/Cargo.toml",
-    "ecosystem": "cargo",
-    "section": "dependencies",
-    "name": "clap",
-    "version": "4.5"
-  },
-  {
-    "file": "scripts/hardware/rust_node_agent/Cargo.toml",
-    "ecosystem": "cargo",
-    "section": "dependencies",
-    "name": "reqwest",
-    "version": "0.12"
-  },
-  {
-    "file": "scripts/hardware/rust_node_agent/Cargo.toml",
-    "ecosystem": "cargo",
-    "section": "dependencies",
-    "name": "serde",
-    "version": "1"
-  },
-  {
-    "file": "scripts/hardware/rust_node_agent/Cargo.toml",
-    "ecosystem": "cargo",
-    "section": "dependencies",
-    "name": "serde_json",
-    "version": "1"
-  },
-  {
     "file": "services/quantum-rust/Cargo.toml",
     "ecosystem": "cargo",
     "section": "dependencies",
@@ -70,39 +35,39 @@
     "version": "0.12"
   },
   {
-    "file": "nanogrid/security/Cargo.toml",
+    "file": "scripts/hardware/rust_node_agent/Cargo.toml",
+    "ecosystem": "cargo",
+    "section": "dependencies",
+    "name": "clap",
+    "version": "4.5"
+  },
+  {
+    "file": "scripts/hardware/rust_node_agent/Cargo.toml",
+    "ecosystem": "cargo",
+    "section": "dependencies",
+    "name": "reqwest",
+    "version": "0.12"
+  },
+  {
+    "file": "scripts/hardware/rust_node_agent/Cargo.toml",
     "ecosystem": "cargo",
     "section": "dependencies",
     "name": "serde",
-    "version": "1.0"
+    "version": "1"
   },
   {
-    "file": "nanogrid/security/Cargo.toml",
+    "file": "scripts/hardware/rust_node_agent/Cargo.toml",
     "ecosystem": "cargo",
     "section": "dependencies",
-    "name": "sha3",
-    "version": "0.10"
+    "name": "serde_json",
+    "version": "1"
   },
   {
-    "file": "nanogrid/security/Cargo.toml",
+    "file": "sdk/rust/Cargo.toml",
     "ecosystem": "cargo",
-    "section": "dependencies",
-    "name": "rand",
-    "version": "0.8"
-  },
-  {
-    "file": "nanogrid/security/Cargo.toml",
-    "ecosystem": "cargo",
-    "section": "dependencies",
-    "name": "ed25519-dalek",
-    "version": "2"
-  },
-  {
-    "file": "nanogrid/security/Cargo.toml",
-    "ecosystem": "cargo",
-    "section": "dependencies",
-    "name": "x25519-dalek",
-    "version": "2"
+    "section": "dev-dependencies",
+    "name": "criterion",
+    "version": "0.5"
   },
   {
     "file": "nanogrid/algebra/Cargo.toml",
@@ -187,6 +152,41 @@
     "section": "dependencies",
     "name": "aes-gcm",
     "version": "0.9"
+  },
+  {
+    "file": "nanogrid/security/Cargo.toml",
+    "ecosystem": "cargo",
+    "section": "dependencies",
+    "name": "serde",
+    "version": "1.0"
+  },
+  {
+    "file": "nanogrid/security/Cargo.toml",
+    "ecosystem": "cargo",
+    "section": "dependencies",
+    "name": "sha3",
+    "version": "0.10"
+  },
+  {
+    "file": "nanogrid/security/Cargo.toml",
+    "ecosystem": "cargo",
+    "section": "dependencies",
+    "name": "rand",
+    "version": "0.8"
+  },
+  {
+    "file": "nanogrid/security/Cargo.toml",
+    "ecosystem": "cargo",
+    "section": "dependencies",
+    "name": "ed25519-dalek",
+    "version": "2"
+  },
+  {
+    "file": "nanogrid/security/Cargo.toml",
+    "ecosystem": "cargo",
+    "section": "dependencies",
+    "name": "x25519-dalek",
+    "version": "2"
   },
   {
     "file": "nanogrid/protocol/Cargo.toml",
